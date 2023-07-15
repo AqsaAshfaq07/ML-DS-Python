@@ -1,0 +1,2 @@
+User: exit
+AI: Thank you for using the Chatbot. If you have any more questions in the future, feel free to come back. Have a great day! Goodbye!

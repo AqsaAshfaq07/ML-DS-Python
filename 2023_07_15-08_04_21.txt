@@ -1,0 +1,4 @@
+User: hey
+AI: Hello! How can I assist you today?
+User: exit
+AI: Of course! If you have any other questions in the future, feel free to ask. Have a great day!
