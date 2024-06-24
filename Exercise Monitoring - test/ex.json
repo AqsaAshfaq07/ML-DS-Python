@@ -1,0 +1,15 @@
+{
+    "squat": {
+      "phase1": {
+        "left_knee_angle": 90,
+        "right_knee_angle": 90,
+        "back_straightness": 0.1
+      },
+      "phase2": {
+        "left_knee_angle": 45,
+        "right_knee_angle": 45,
+        "back_straightness": 0.1
+      }
+    }
+  }
+  
